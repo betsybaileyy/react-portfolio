@@ -11,76 +11,58 @@
 
     },
     {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
+        "title": "Big Mood",
+        "role": "Product Manager & Backend Engineer - Team Project",
+        "desc": "Consequi is a new web application that allows users to create goals and find people to help them remain accountable to achieving those goals.",
+        "link": "github.com/jamiejamiebobamie/BigMood_Final",
         "images":[
-            "blue.jpg"
+            "bigmood.png"
          ]
 
     },
     {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
+        "title": "Homegrown AVL Trees",
+        "role": "Computer Science - Group Project",
+        "desc": "Implementing an AVL Tree, which is a self-balancing binary search tree, in Python.",
+        "link": "github.com/betsybaileyy/AVL_Tree",
         "images":[
-            "blue.jpg"
+            "avltrees.png"
          ]
 
     },
     {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
-        "images":[
-            "blue.jpg"
-         ]
+            "title": "Showthat",
+            "role": "Fullstack Engineer - Personal Project",
+            "desc": "A web application that allows helps users to find their new favorite critically acclaimed television show. This program was written in JavaScript and made use of Node.js and Express to create functionality for the user to CRUD multiple resources.",
+            "link": "github.com/betsybaileyy/showthat",
+            "images":[
+                "showthat.png"
+             ]
+    
+        },
+        {
+            "title": "Investea",
+            "role": "Product Manager - Group Project",
+            "desc": "Investea seeks to do what other investment learning platforms haven’t — meet millennials where they are. Investea follows the stock market’s actual data, in real time. The only thing that isn’t authentic is the money that you invest.",            
+            "link": "github.com/LucHighwalker/stocksBackend/tree/dev",
+            "images":[
+                "investea.png"
+             ]
+    
+        },
+        {
+            "title": "Retro Retire",
+            "role": "Fullstack Engineer - Personal Project",
+            "desc": "Retro Retire was born from the idea that professionals should be able to find a middle ground between working full time and completely retiring. Written in JavaScript with Node.js and Express to allow users to upload job postings targeted toward the early/ semi-retired community.",
+            "link": "github.com/betsybaileyy/Retro-Retire",
+            "images":[
+                "retroretire.png"
+             ]
+    
+        }
+        
+         
 
-    },
-    {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
-        "images":[
-            "blue.jpg"
-         ]
-
-    },
-    {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
-        "images":[
-            "blue.jpg"
-         ]
-
-    },
-    {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
-        "images":[
-            "blue.jpg"
-         ]
-
-    },
-    {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
-        "images":[
-            "blue.jpg"
-         ]
-
-    },
-    {
-        "title": "Border collie",
-        "desc": "smart agile dog",
-        "role": "Mon - Fri 7am - 5:30pm",
-        "images":[
-            "blue.jpg"
-         ]
-
-    }
+    
 ]
 
